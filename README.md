@@ -10,20 +10,19 @@ Things you may want to cover:
 
 * System dependencies
 
-	. [PostgreSQL](https://www.postgresql.org/)
-	. [Bulma](https://bulma.io)
-	. [Elasticsearch](https://www.elastic.co/)
-	. [Mailgun](https://www.mailgun.com/)
-	. [Sidekiq](https://sidekiq.org/)
-	. [Docker](https://docs.docker.com/install/)
-	. [Redis](https://redis.io/)
+	* [PostgreSQL](https://www.postgresql.org/)
+	* [Bulma](https://bulma.io)
+	* [Elasticsearch](https://www.elastic.co/)
+	* [Mailgun](https://www.mailgun.com/)
+	* [Sidekiq](https://sidekiq.org/)
+	* [Docker](https://docs.docker.com/install/)
+	* [Redis](https://redis.io/)
 
 * Configuration
 
 * Database creation
 
-	```sh 
-		rails db:create
+	```sh rails db:create
 	 ```
 
 * Database initialization
