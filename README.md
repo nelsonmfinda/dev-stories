@@ -22,7 +22,8 @@ Things you may want to cover:
 
 * Database creation
 
-	```sh rails db:create
+	```sh 
+	rails db:create
 	 ```
 
 * Database initialization
